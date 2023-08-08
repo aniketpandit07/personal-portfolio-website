@@ -52,10 +52,10 @@
     .education-container{
       text-align: center;
     }
-    #another-about{
-      /* margin-top: 75px; */
-      /* margin-top: 15rem; */
-    }
+    /* #another-about{
+      margin-top: 75px; */
+      /* margin-top: 15rem;
+    } */
   }
   
   @media screen and (max-width: 600px) {
