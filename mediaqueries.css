@@ -54,7 +54,7 @@
     }
     #another-about{
       /* margin-top: 75px; */
-      margin-top: 15rem;
+      /* margin-top: 15rem; */
     }
   }
   
@@ -117,7 +117,7 @@
         flex-direction: row;
     }
     #another-about{
-      margin-top: 75px;
+      /* margin-top: 75px; */
       /* margin-top: 15rem; */
     }
   }
